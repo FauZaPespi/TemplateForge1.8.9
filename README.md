@@ -5,6 +5,7 @@ gradlew
 gradlew build
 ```
 ouvrir build.gradle avec intelij
+mets le level language a 8 et le sdk a 1.8 si ta pas install t bete ou quoi
 
 si ta cette erreur refait le debut
 ![image](https://github.com/user-attachments/assets/972fb5d0-1d25-4003-a733-5450a87e418e)
